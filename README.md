@@ -250,22 +250,6 @@ financial-document-analyzer-debug/
 ├── env_example.txt       # Environment variables template
 ├── data/                 # Sample financial documents
 │   └── TSLA-Q2-2025-Update.pdf
-└── outputs/              # Analysis results (gitignored)
+└── outputs/              # Analysis results 
 ```
-
-### Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-### Support
-
-For support, email your-email@example.com or create an issue in the GitHub repository.
 
